@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/product-preview-card---react-and-tailwind-css-_5FK_pwZ-z)
 - [Live Site URL](https://product-preview-topaz.vercel.app/)
 
 ## My process
