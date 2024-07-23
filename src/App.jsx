@@ -7,7 +7,7 @@ function App() {
         <img
           src="/image-product-desktop.jpg"
           alt="Image Product"
-          className="h-80 w-full rounded-t-xl object-cover md:h-auto md:rounded-l-xl md:rounded-t-none"
+          className="h-80 w-full rounded-t-xl object-cover md:h-auto md:rounded-l-xl md:rounded-r-none"
         />
       </div>
       <div className="flex w-full flex-col pb-6 pl-6 pr-8 pt-6 md:w-1/2">
