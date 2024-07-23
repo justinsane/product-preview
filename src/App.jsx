@@ -5,7 +5,7 @@ function App() {
     <div className=" flex w-full max-w-xl flex-col rounded-xl bg-white shadow-md md:flex-row">
       <div className=" md:w-1/2">
         <img
-          src="./public/image-product-desktop.jpg"
+          src="/image-product-desktop.jpg"
           alt="Image Product"
           className="h-80 w-full rounded-t-xl object-cover md:h-auto md:rounded-l-xl md:rounded-t-none"
         />
@@ -34,11 +34,7 @@ function App() {
           target="_blank"
           className="mt-4 flex justify-center rounded-lg bg-dark-cyan p-3 text-white hover:bg-very-dark-blue"
         >
-          <img
-            src="./public/icon-cart.svg"
-            alt="Cart icon"
-            className="mr-3 w-4"
-          />
+          <img src="/icon-cart.svg" alt="Cart icon" className="mr-3 w-4" />
           <span className="font-bold">Add to Cart</span>
         </a>
       </div>
